@@ -1,1 +1,2 @@
 # SelfWateringPlant-System
+This collaborative project, developed by a team of two, features a self-watering plant system designed to keep plants healthy even when their owners are away. The code is implemented on an Arduino Uno microcontroller, utilizing sensors to monitor soil humidity, ambient conditions, and water levels. The system includes a water reservoir and a display that provides all essential information, ensuring the owner can easily monitor the plant's status.
